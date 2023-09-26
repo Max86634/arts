@@ -1,5 +1,6 @@
 
 .body{
+    content-alagin : center;
     display : flex;
     background-color: rgba(59, 27, 46, 0.863);
     text-decoration: none;
